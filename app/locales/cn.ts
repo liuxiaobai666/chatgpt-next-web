@@ -266,7 +266,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "新的聊天",
-    BotHello: "**Chat GPT：[izhran.cn](https://izhran.cn)<br> 刘小白的小窝：[ounoe.com](https://www.ounoe.com/)**",
+    BotHello: "**Chat GPT：[izhran.cn](https://izhran.cn) 搭建本站教程：[ounoe.com](https://www.ounoe.com/archives/378)**",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
